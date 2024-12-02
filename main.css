@@ -12,6 +12,7 @@ html, body {
 body {
     background-color: gray;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
